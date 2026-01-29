@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi 👋 I'm Varsha
+
+🎓 Computer Engineering Graduate  
+💻 Software Engineer | Java | Spring Boot | React | Android 
+🌱 Currently learning: System Design & AWS  
+📫 Reach me at: 
+
+---
+
+### 🛠️ Skills
+- **Languages:** Java, JavaScript, SQL
+- **Backend:** Spring Boot, Hibernate, REST APIs
+- **Frontend:** React, HTML, CSS
+- **Tools:** Git, GitHub, Postman
+- **Cloud:** AWS (Basics)
+
+---
+
+### 📂 Projects
+- 🔹 Expense Tracker (Spring Boot + React)
+- 🔹 Student Management System
+- 🔹 Android Expense App
+
+---
+
+✨ Thanks for visiting my profile!
