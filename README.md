@@ -166,6 +166,71 @@ varsha = {
 
 ---
 
+## 🏅 Certifications
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/AWS-Certified_Developer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Developer Associate"/>
+
+**AWS Certified Developer – Associate**
+*Amazon Web Services*
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/AWS-Certified_AI_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS AI Practitioner"/>
+
+**AWS Certified AI Practitioner**
+*Amazon Web Services*
+
+</td>
+<td align="center" width="34%">
+
+<img src="https://img.shields.io/badge/Anthropic-Claude_Certified_Architect_Foundations-A855F7?style=for-the-badge&logoColor=white" alt="Claude Architect"/>
+
+**Claude Certified Architect – Foundations**
+*Anthropic*
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/DeepLearning.AI-Building_with_ChatGPT_API-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="DeepLearning.AI"/>
+
+**Building Systems with the ChatGPT API**
+*DeepLearning.AI*
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Databricks-Generative_AI_Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks GenAI"/>
+
+**Academy Accreditation – Generative AI Fundamentals**
+*Databricks*
+
+</td>
+<td align="center" width="34%">
+
+<img src="https://img.shields.io/badge/IBM-Introduction_to_AI-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM AI"/>
+
+**Introduction to Artificial Intelligence**
+*IBM*
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Certifications-6-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud-AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-Specialized-A855F7?style=for-the-badge" />
+</p>
+
+---
+
 ## 💼 Professional Experience
 
 ### 🤖 Gen AI Engineer | RK Software Solutions
