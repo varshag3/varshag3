@@ -259,7 +259,7 @@ varsha = {
 ---
 
 ### 🧪 AI/ML Engineer | Cognizant
-**August 2020 – August 2023** | Hyderabad, India
+**August 2021 – August 2023** | Hyderabad, India
 
 ```diff
 + Built end-to-end ML pipelines → 40% faster model-to-production cycle time
